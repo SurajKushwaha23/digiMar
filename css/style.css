@@ -84,10 +84,6 @@ a:hover {
   cursor: pointer;
 }
 
-.banner-title {
-  width: 80%;
-  margin: 0 auto;
-}
 .banner-title h1 {
   font-size: 3.5rem;
   font-weight: 700;
