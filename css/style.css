@@ -2,6 +2,21 @@ body {
   font-size: 1rem;
 }
 
+a,
+a:hover {
+  text-decoration: none;
+}
+
+.webButton {
+  background-color: #09b850;
+  padding: 10px 16px;
+  color: #ffffff;
+  border-radius: 5px;
+}
+.webButton:hover {
+  text-decoration: none;
+}
+
 .nav-section {
   background-color: #09b850;
 }
@@ -67,4 +82,16 @@ body {
 .footer-link ul li:hover {
   color: #09b850;
   cursor: pointer;
+}
+
+.banner-title {
+  width: 80%;
+  margin: 0 auto;
+}
+.banner-title h1 {
+  font-size: 3.5rem;
+  font-weight: 700;
+}
+.banner-title p {
+  font-size: 1.5rem;
 }/*# sourceMappingURL=style.css.map */
