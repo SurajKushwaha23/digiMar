@@ -1,5 +1,43 @@
-root {
-  --primaryColor: #09b850;
-  --textHoverColor: #09b850;
-  --bgColor: #09b850;
+body {
+  font-size: 1rem;
+}
+
+.nav-section {
+  background-color: #09b850;
+}
+
+.header-links ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.header-links ul li {
+  position: relative;
+  font-weight: 400;
+  color: #ffffff;
+  padding-right: 1rem;
+  font-weight: 700;
+}
+
+.btn:hover {
+  color: #fff;
+  background-color: #09b850;
+  border-color: #09b850;
+}
+
+.web-brand {
+  font-size: 1.6rem;
+  font-weight: 900;
+  color: #09b850;
+}
+
+.web-brand:hover {
+  color: #08cc56;
+}
+
+.navbarLink .nav-link {
+  color: #474747;
+  font-size: 1.1rem;
+  font-weight: 600;
+  padding: 10px 14px !important;
 }/*# sourceMappingURL=style.css.map */
