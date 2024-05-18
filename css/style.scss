@@ -142,3 +142,21 @@ a:hover {
     font-size: 1.2rem;
   }
 }
+
+// About content
+
+.about-content {
+  h1 {
+    font-size: 5rem;
+  }
+  p {
+    font-size: 1.4rem;
+  }
+}
+
+.about-img {
+  img {
+    width: 100%;
+    object-fit: cover;
+  }
+}

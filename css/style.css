@@ -127,4 +127,17 @@ a:hover {
 .feature-box p {
   margin-bottom: 0;
   font-size: 1.2rem;
+}
+
+.about-content h1 {
+  font-size: 5rem;
+}
+.about-content p {
+  font-size: 1.4rem;
+}
+
+.about-img img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
 }/*# sourceMappingURL=style.css.map */
