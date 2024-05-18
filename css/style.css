@@ -140,4 +140,43 @@ a:hover {
   width: 100%;
   -o-object-fit: cover;
      object-fit: cover;
+}
+
+.page-section .title h1 {
+  font-size: 4rem;
+}
+.page-section .title p {
+  font-size: 2rem;
+}
+
+.contact-box {
+  padding: 30px 30px;
+  box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.08);
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  margin-bottom: 2rem;
+}
+.contact-box .icon-c {
+  height: 80px;
+  width: 80px;
+  border-radius: 100%;
+  background-color: #09b850;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  border: 10px solid #ddd;
+}
+.contact-box .icon-c i {
+  font-size: 2rem;
+  color: #ffffff;
+}
+.contact-box h5 {
+  margin-top: 1.5rem;
+  font-size: 1.5rem;
+}
+.contact-box p {
+  font-size: 1.3rem;
 }/*# sourceMappingURL=style.css.map */
