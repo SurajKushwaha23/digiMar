@@ -87,7 +87,7 @@ a:hover {
 }
 
 .banner-title h1 {
-  font-size: 3.5rem;
+  font-size: 5rem;
   font-weight: 700;
 }
 .banner-title p {
@@ -112,6 +112,7 @@ a:hover {
   background-color: #ffffff;
   border-radius: 10px;
   margin-bottom: 1rem;
+  cursor: pointer;
 }
 .feature-box .feature-icon i {
   color: #09b850;
