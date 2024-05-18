@@ -111,6 +111,7 @@ a:hover {
   box-shadow: 0 4px 12px 0 rgba(0, 0, 0, 0.08);
   background-color: #ffffff;
   border-radius: 10px;
+  margin-bottom: 1rem;
 }
 .feature-box .feature-icon i {
   color: #09b850;
@@ -120,6 +121,7 @@ a:hover {
   margin-top: 20px;
   margin-bottom: 12px;
   font-size: 1.25rem;
+  font-weight: 700;
 }
 .feature-box p {
   margin-bottom: 0;
